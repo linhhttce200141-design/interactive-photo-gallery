@@ -1,0 +1,11 @@
+#image {
+  width: 500px;
+  height: 300px;
+  border: 2px solid black;
+  margin-bottom: 20px;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  line-height: 300px;
+  font-size: 24px;
+}
